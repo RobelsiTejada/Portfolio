@@ -1,27 +1,21 @@
-var map_wrapper = 'map_container';	
-var longitude = 45.124099;
-var latitude = -123.113634;
-var bubble_content =	"<p class='map_contacts'>" +
-						"<span>Address : </span>" +
-						"550 Hershell Hollow Road Johnson City, TN 37615" +
-						"</p>";
+const map_wrapper = 'map_container'
+const longitude = 42.008299
+const latitude = -71.397398
+const bubble_content =	<p class='map_contacts'> + <span>Address : </span> +
+"Rhode Island/Massachusetts Area" + </p>
 
-
-
-
-
-function initialize() {
-	var mapOptions = {
-		zoom: 13,
-		center: new google.maps.LatLng(longitude, latitude),
-		mapTypeId: google.maps.MapTypeId.ROADMAP,
-		mapTypeControl: false,
-		streetViewControl:false,
-		scrollwheel : false,
-		zoomControlOptions: {
-	      style: google.maps.ZoomControlStyle.SMALL
-	    }
-	};
+function initialize () {
+  const mapOptions = {
+    zoom: 13,
+    center: new google.maps.LatLng(longitude, latitude),
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    mapTypeControl: false,
+    streetViewControl: false,
+    scrollwheel : false,
+    zoomControlOptions: {
+      style: google.maps.ZoomControlStyle.SMALL
+    }
+  }
 
 	var map = new google.maps.Map(document.getElementById(map_wrapper),mapOptions);
 
