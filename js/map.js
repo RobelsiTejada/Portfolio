@@ -1,8 +1,8 @@
 const map_wrapper = 'map_container'
 const longitude = 42.008299
 const latitude = -71.397398
-const bubble_content =	<p class='map_contacts'> + <span>Address : </span> +
-"Rhode Island/Massachusetts Area" + </p>
+const bubble_content =	"<p class='map_contacts'>" + "<span>Address : </span>" +
+"Rhode Island/Massachusetts Area" + "</p>"
 
 function initialize () {
   const mapOptions = {
