@@ -416,7 +416,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 }
 
 .quote blockquote p{
-	color: #4c4b4b;
+	color: #fff;
 	font-family: "raleway-light", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: lighter;
