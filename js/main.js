@@ -24,20 +24,11 @@ $(document).ready(function() {
     }
   });
 
-
-
-
-
   /*    Mean navigation menu scroll to    */
-  $('#mean_nav ul li a').click(function(e) {
-    e.preventDefault();
-    scrollTo($(this).attr('href'), 900, 'easeInOutCubic');
-  });
-
-
-
-
-
+  $('#mean_nav ul li a').click(function (e) {
+    e.preventDefault()
+    scrollTo($(this).attr('href'), 900, 'easeInOutCubic')
+  })
 
   /*    Back to top button    */
   var back_top = $('#back_top');
