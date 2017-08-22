@@ -26,9 +26,9 @@ $(document).ready(function () {
   })
 
   /*    Back to top button    */
-  const back_top = $('#back_top')
+  const backTop = $('#back_top')
 
-  back_top.click(function (e) {
+  backTop.click(function (e) {
     e.preventDefault()
     scrollTo(0, 900, 'easeInOutCubic')
   })
@@ -41,11 +41,11 @@ $(document).ready(function () {
 
   $(window).on('scroll', function () {
     if ($(this).scrollTop() > 749) {
-      back_top.stop().animate({
+      backTop.stop().animate({
         opacity: 1
       }, 250)
     } else {
-      back_top.stop().animate({
+      backTop.stop().animate({
         opacity: 0
       }, 250)
     }
