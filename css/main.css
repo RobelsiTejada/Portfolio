@@ -696,7 +696,7 @@ footer p{
 
 /*  Back To Top button  */
 
-#back_top{
+#backTop{
 	text-decoration: none;
 	position: fixed;
 	right: 20px;
@@ -705,17 +705,17 @@ footer p{
 	opacity: 0;
 }
 
-.btn_fancy#back_top{
+.btn_fancy#backTop{
 	padding: 6px 16px;
 }
 
-.btn_fancy#back_top:hover .border_layer{
+.btn_fancy#backTop:hover .border_layer{
 	-webkit-transform:translate(1px,-1px);
 	    -ms-transform:translate(1px,-1px);
 	     -o-transform:translate(1px,-1px);
 	        transform:translate(1px,-1px);
 }
-.btn_fancy#back_top:hover .solid_layer{
+.btn_fancy#backTop:hover .solid_layer{
 	-webkit-transform:translate(-1px,1px);
 	    -ms-transform:translate(-1px,1px);
 	     -o-transform:translate(-1px,1px);
@@ -789,7 +789,7 @@ footer p{
 }
 
 @media only screen and (min-width: 64.063em) {
-	#back_top{
+	#backTop{
 		right: 40px;
 		bottom: 40px;
 		margin-top: -22px;
