@@ -441,15 +441,15 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 20px 0 0 0;
 }
 
-/*    Testimonials    */
+/*    about    */
 
-.testimonials{
+.about{
 	width: 100%;
 	background: #ffffff;
 	padding: 140px 0;
 }
 
-.testimonials .tesimonial{
+.about .tesimonial{
 	max-width: 670px;
 	height: auto;
 	margin: 0 auto;
@@ -464,13 +464,13 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	height: auto;
 }
 
-.testimonials .name,
-.testimonials .author{
+.about .name,
+.about .author{
 	display: block;
 }
 
 
-.testimonials .name{
+.about .name{
 	color: #2c2c2c;
 	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
 	font-size: 18px;
@@ -479,7 +479,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 30px 0 70px 0;
 }
 
-.testimonials p{
+.about p{
 	color: #5b5a5a;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
@@ -487,7 +487,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 0;
 }
 
-.testimonials .author{
+.about .author{
 	color: #2c2c2c;
 	font-family: "raleway-semibold", Helvetica, Arial, sans-serif;
 	font-size: 14px;
@@ -495,7 +495,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 10px 0 0 0;
 }
 
-.testimonials .pagination{
+.about .pagination{
 	display: block;
 	text-align: center;
 	list-style: none;
@@ -503,7 +503,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	padding: 0;
 }
 
-.testimonials .pagination a{
+.about .pagination a{
 	text-decoration: none;
 	display: inline-block;
 	width: 10px;
@@ -518,15 +518,15 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	        transition:all .2s linear;
 }
 
-.testimonials .pagination a:last-child{
+.about .pagination a:last-child{
 	margin-right: 0;
 }
 
-.testimonials .pagination a.selected{
+.about .pagination a.selected{
 	background: #c5c5c5;
 }
 
-.testimonials ul.slick-dots{
+.about ul.slick-dots{
 	display: block;
 	text-align: center;
 	list-style: none;
@@ -534,12 +534,12 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	padding: 0;
 }
 
-.testimonials ul.slick-dots li,
+.about ul.slick-dots li,
 .slick-slide img{
 	display: inline-block;
 }
 
-.testimonials ul.slick-dots li a{
+.about ul.slick-dots li a{
 	text-decoration: none;
 	display: inline-block;
 	width: 10px;
@@ -554,11 +554,11 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	        transition:all .2s linear;
 }
 
-.testimonials ul.slick-dots li:last-child a{
+.about ul.slick-dots li:last-child a{
 	margin-right: 0;
 }
 
-.testimonials ul.slick-dots li.slick-active a{
+.about ul.slick-dots li.slick-active a{
 	background: #c5c5c5;
 }
 
