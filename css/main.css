@@ -153,16 +153,6 @@
   box-shadow: 0 0 0 1px #fbdd90, 0 7px 0 1px #fbdd90, 0 14px 0 1px #fbdd90;
 }
 
-
-
-
-
-
-
-
-
-
-
 /*    Hero    */
 
 .hero{
@@ -223,13 +213,6 @@
 	        transform:translateX(3px);
 }
 
-
-
-
-
-
-
-
 /*    Header    */
 
 header{
@@ -285,15 +268,6 @@ header .top-bar-section li:not(.has-form) a:not(.button){
 header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	color: #fbdd90;
 }
-
-
-
-
-
-
-
-
-
 
 /*    Services    */
 
@@ -354,14 +328,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 .services .btn_fancy{
 	margin-top: 100px;
 }
-
-
-
-
-
-
-
-
 
 /*    Fancy Button    */
 
@@ -430,15 +396,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	        transform:translate(-2px,2px);
 }
 
-
-
-
-
-
-
-
-
-
 /**    quote    **/
 
 .quote{
@@ -482,7 +439,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	background-color: #4b4b4b;
 }
 
-
 .quote .author{
 	display: block;
 	color: #4c4b4b;
@@ -491,15 +447,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	letter-spacing: .5px;
 	margin: 20px 0 0 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*    Testimonials    */
 
@@ -556,7 +503,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 10px 0 0 0;
 }
 
-
 .testimonials .pagination{
 	display: block;
 	text-align: center;
@@ -564,7 +510,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 75px 0 0 0;
 	padding: 0;
 }
-
 
 .testimonials .pagination a{
 	text-decoration: none;
@@ -625,15 +570,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	background: #c5c5c5;
 }
 
-
-
-
-
-
-
-
-
-
 /*    Call To Action    */
 
 .cta{
@@ -663,15 +599,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 .cta .btn_fancy{
 	margin-top: 60px;
 }
-
-
-
-
-
-
-
-
-
 
 /*    Google Map    */
 .map{
@@ -713,15 +640,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	font-weight:bold;
 	text-transform:uppercase;
 }
-
-
-
-
-
-
-
-
-
 
 /*    Footer    */
 
@@ -784,14 +702,6 @@ footer p{
 	padding: 0;
 }
 
-
-
-
-
-
-
-
-
 /*  Back To Top button  */
 
 #back_top{
@@ -819,15 +729,6 @@ footer p{
 	     -o-transform:translate(-1px,1px);
 	        transform:translate(-1px,1px);
 }
-
-
-
-
-
-
-
-
-
 
 /*    Responsive CSS    */
 
@@ -894,11 +795,6 @@ footer p{
 		margin-top: 60px;
 	}
 }
-
-
-
-
-
 
 @media only screen and (min-width: 64.063em) {
 	#back_top{
