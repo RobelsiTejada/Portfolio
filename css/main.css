@@ -263,50 +263,50 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	color: #fbdd90;
 }
 
-/*    Services    */
+/*    portfolio    */
 
-.services{
+.portfolio{
 	padding: 140px 0;
 }
 
-.services .mean_title,
-.services .sub_title{
+.portfolio .mean_title,
+.portfolio .sub_title{
 	text-align: center;
 	color: #454545;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 }
 
 
-.services .mean_title{
+.portfolio .mean_title{
 	font-size: 30px;
 	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 }
 
-.services .sub_title{
+.portfolio .sub_title{
 	font-size: 22px;
 	font-family: "raleway-light", Helvetica, Arial, sans-serif;
 	font-weight: lighter;
 	text-transform: lowercase;
 }
 
-.services .services_list{
+.portfolio .portfolio_list{
 	margin-top: 100px;	text-align: center;
 }
 
-.services .services_list .serv_icon{
+.portfolio .portfolio_list .serv_icon{
 	margin-bottom: 60px;
 }
 
-.services .services_list p{
+.portfolio .portfolio_list p{
 	color: #454545;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 30px;
 }
 
-.services .title{
+.portfolio .title{
 	color: #454545;
 	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
@@ -319,7 +319,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	text-align: center;
 }
 
-.services .btn_fancy{
+.portfolio .btn_fancy{
 	margin-top: 100px;
 }
 
@@ -463,7 +463,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 0 auto;
 	height: auto;
 }
-
 
 .testimonials .name,
 .testimonials .author{
