@@ -1,3 +1,4 @@
+const google =
 const map_wrapper = 'map_container'
 const longitude = 42.008299
 const latitude = -71.397398
