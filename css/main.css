@@ -447,7 +447,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
   margin: 10px 0 0 0;
 }
 
-.about .pagination {
+.pagination {
   display: block;
   text-align: center;
   list-style: none;
@@ -455,7 +455,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
   padding: 0;
 }
 
-.about .pagination a {
+.pagination a {
   text-decoration: none;
   display: inline-block;
   width: 10px;
@@ -470,11 +470,11 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
   transition: all .2s linear;
 }
 
-.about .pagination a:last-child {
+.pagination a:last-child {
   margin-right: 0;
 }
 
-.about .pagination a.selected {
+.pagination a.selected {
   background: #c5c5c5;
 }
 
