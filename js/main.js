@@ -19,13 +19,13 @@ $(document).ready(function () {
     }
   })
   /*    Mean navigation menu scroll to    */
-  $('#mean_nav ul li a').click(function (e) {
+  $('#mean_nav ul li a').click(function(e) {
     e.preventDefault()
     scrollTo($(this).attr('href'), 900, 'easeInOutCubic')
   })
   /*    Back to top button    */
   const backTop = $('#backTop')
-  backTop.click(function (e) {
+  backTop.click(function(e) {
     e.preventDefault()
     scrollTo(0, 900, 'easeInOutCubic')
   })
