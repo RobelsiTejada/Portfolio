@@ -1,65 +1,65 @@
 /*		Fonts		*/
 
 @font-face {
-  font-family: 'lato-black';
-  src: url('../fonts/lato-black.eot');
-  src: url('../fonts/lato-black.eot?#iefix') format('embedded-opentype'), url('../fonts/lato-black.woff') format('woff'), url('../fonts/lato-black.ttf') format('truetype'), url('../fonts/lato-black.svg#LatoBlack') format('svg');
+  font-family: "lato-black";
+  src: url("../fonts/lato-black.eot");
+  src: url("../fonts/lato-black.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-black.woff") format("woff"), url("../fonts/lato-black.ttf") format("truetype"), url("../fonts/lato-black.svg#LatoBlack") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'lato-light';
-  src: url('../fonts/lato-light.eot');
-  src: url('../fonts/lato-light.eot?#iefix') format('embedded-opentype'), url('../fonts/lato-light.woff') format('woff'), url('../fonts/lato-light.ttf') format('truetype'), url('../fonts/lato-light.svg#LatoLight') format('svg');
+  font-family: "lato-light";
+  src: url("../fonts/lato-light.eot");
+  src: url("../fonts/lato-light.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-light.woff") format("woff"), url("../fonts/lato-light.ttf") format("truetype"), url("../fonts/lato-light.svg#LatoLight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'lato-bold';
-  src: url('../fonts/lato-bold.eot');
-  src: url('../fonts/lato-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/lato-bold.woff') format('woff'), url('../fonts/lato-bold.ttf') format('truetype'), url('../fonts/lato-bold.svg#LatoBold') format('svg');
+  font-family: "lato-bold";
+  src: url("../fonts/lato-bold.eot");
+  src: url("../fonts/lato-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-bold.woff") format("woff"), url("../fonts/lato-bold.ttf") format("truetype"), url("../fonts/lato-bold.svg#LatoBold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'lato-hairline';
-  src: url('../fonts/lato-hairline.eot');
-  src: url('../fonts/lato-hairline.eot?#iefix') format('embedded-opentype'), url('../fonts/lato-hairline.woff') format('woff'), url('../fonts/lato-hairline.ttf') format('truetype'), url('../fonts/lato-hairline.svg#LatoHairline') format('svg');
+  font-family: "lato-hairline";
+  src: url("../fonts/lato-hairline.eot");
+  src: url("../fonts/lato-hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-hairline.woff") format("woff"), url("../fonts/lato-hairline.ttf") format("truetype"), url("../fonts/lato-hairline.svg#LatoHairline") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'raleway-bold';
-  src: url('../fonts/raleway-bold.eot');
-  src: url('../fonts/raleway-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-bold.woff') format('woff'), url('../fonts/raleway-bold.ttf') format('truetype'), url('../fonts/raleway-bold.svg#RalewayBold') format('svg');
+  font-family: "raleway-bold";
+  src: url("../fonts/raleway-bold.eot");
+  src: url("../fonts/raleway-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-bold.woff") format("woff"), url("../fonts/raleway-bold.ttf") format("truetype"), url("../fonts/raleway-bold.svg#RalewayBold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'raleway-light';
-  src: url('../fonts/raleway-light.eot');
-  src: url('../fonts/raleway-light.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-light.woff') format('woff'), url('../fonts/raleway-light.ttf') format('truetype'), url('../fonts/raleway-light.svg#RalewayLight') format('svg');
+  font-family: "raleway-light";
+  src: url("../fonts/raleway-light.eot");
+  src: url("../fonts/raleway-light.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-light.woff") format("woff"), url("../fonts/raleway-light.ttf") format("truetype"), url("../fonts/raleway-light.svg#RalewayLight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'raleway-regular';
-  src: url('../fonts/raleway-regular.eot');
-  src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-regular.woff') format('woff'), url('../fonts/raleway-regular.ttf') format('truetype'), url('../fonts/raleway-regular.svg#RalewayRegular') format('svg');
+  font-family: "raleway-regular";
+  src: url("../fonts/raleway-regular.eot");
+  src: url("../fonts/raleway-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-regular.woff") format("woff"), url("../fonts/raleway-regular.ttf") format("truetype"), url("../fonts/raleway-regular.svg#RalewayRegular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'raleway-semibold';
-  src: url('../fonts/raleway-semibold.eot');
-  src: url('../fonts/raleway-semibold.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-semibold.woff') format('woff'), url('../fonts/raleway-semibold.ttf') format('truetype'), url('../fonts/raleway-semibold.svg#RalewaySemibold') format('svg');
+  font-family: "raleway-semibold";
+  src: url("../fonts/raleway-semibold.eot");
+  src: url("../fonts/raleway-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-semibold.woff") format("woff"), url("../fonts/raleway-semibold.ttf") format("truetype"), url("../fonts/raleway-semibold.svg#RalewaySemibold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -107,7 +107,7 @@
 .hero {
   width: 100%;
   height: 750px;
-  background: url('../img/hero.jpg') no-repeat 50% 50%;
+  background: url("../img/hero.jpg") no-repeat 50% 50%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -119,14 +119,14 @@
 }
 
 .hero .caption h1.mean_cap {
-  font-family: 'lato-black', Helvetica, Arial, sans-serif;
+  font-family: "lato-black", Helvetica, Arial, sans-serif;
   font-size: 60px;
   color: #fff;
   line-height: 70px;
 }
 
 .hero .caption h2.sub_cap {
-  font-family: 'lato-light', Helvetica, Arial, sans-serif;
+  font-family: "lato-light", Helvetica, Arial, sans-serif;
   font-weight: lighter;
   font-size: 60px;
   color: #fff;
@@ -138,7 +138,7 @@
 .hero .caption .btn_details span {
   display: inline-block;
   color: #fff;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 18px;
   letter-spacing: .5px;
   position: relative;
@@ -172,14 +172,14 @@ header {
 .logo h1 {
   text-decoration: none;
   color: #ffffff;
-  font-family: 'lato-bold', Helvetica, Arial, sans-serif;
+  font-family: "lato-bold", Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 .logo h1 .tld {
-  font-family: 'lato-hairline', Helvetica, Arial, sans-serif;
+  font-family: "lato-hairline", Helvetica, Arial, sans-serif;
   font-size: 14px;
   margin: 0;
 }
@@ -194,7 +194,7 @@ header nav {
 
 header .top-bar-section ul li a {
   color: #ffffff;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   margin-right: 30px;
@@ -225,19 +225,19 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 .portfolio .mean_title, .portfolio .sub_title {
   text-align: center;
   color: #454545;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 }
 
 .portfolio .mean_title {
   font-size: 30px;
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 .portfolio .sub_title {
   font-size: 22px;
-  font-family: 'raleway-light', Helvetica, Arial, sans-serif;
+  font-family: "raleway-light", Helvetica, Arial, sans-serif;
   font-weight: lighter;
   text-transform: lowercase;
 }
@@ -253,14 +253,14 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .portfolio .portfolio_list p {
   color: #454545;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 30px;
 }
 
 .portfolio .title {
   color: #454545;
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
@@ -283,7 +283,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
   position: relative;
   text-align: center;
   color: #454545;
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
@@ -349,7 +349,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
   display: table;
   width: 100%;
   height: 450px;
-  background: url('../img/quote_bg.jpg') no-repeat 50% 50%;
+  background: url("../img/quote_bg.jpg") no-repeat 50% 50%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -364,14 +364,14 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .quote blockquote p {
   color: #fff;
-  font-family: 'raleway-light', Helvetica, Arial, sans-serif;
+  font-family: "raleway-light", Helvetica, Arial, sans-serif;
   font-size: 28px;
   font-weight: lighter;
   margin: 0;
 }
 
 .quote blockquote .strong {
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -388,7 +388,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 .quote .author {
   display: block;
   color: #fff;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 14px;
   letter-spacing: .5px;
   margin: 20px 0 0 0;
@@ -424,7 +424,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .about .name {
   color: #2c2c2c;
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
@@ -433,7 +433,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .about p {
   color: #5b5a5a;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 40px;
   margin: 0;
@@ -441,7 +441,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .about .author {
   color: #2c2c2c;
-  font-family: 'raleway-semibold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-semibold", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
   margin: 10px 0 0 0;
@@ -519,13 +519,13 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 .cta {
   background: #ffffff;
   padding: 140px 0;
-  background: url('../img/cubes.png') repeat;
+  background: url("../img/cubes.png") repeat;
   text-align: center;
 }
 
 .cta .title {
   color: #454545;
-  font-family: 'raleway-bold', Helvetica, Arial, sans-serif;
+  font-family: "raleway-bold", Helvetica, Arial, sans-serif;
   font-size: 26px;
   font-weight: bold;
   text-transform: uppercase;
@@ -534,7 +534,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 .cta .sub_title {
   color: #454545;
-  font-family: 'raleway-light', Helvetica, Arial, sans-serif;
+  font-family: "raleway-light", Helvetica, Arial, sans-serif;
   font-weight: lighter;
   font-size: 18px;
   text-transform: lowercase;
@@ -559,7 +559,7 @@ footer .copyrights {
 
 footer .copyrights p {
   color: #c5c5c5;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 12px;
   letter-spacing: .5px;
 }
@@ -585,7 +585,7 @@ footer .social ul li {
 footer .social ul li a, footer .contact {
   display: inline-block;
   color: #fff;
-  font-family: 'raleway-regular', Helvetica, Arial, sans-serif;
+  font-family: "raleway-regular", Helvetica, Arial, sans-serif;
   font-size: 14px;
   letter-spacing: 0.5px;
 }
