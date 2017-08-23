@@ -463,7 +463,6 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	font-family: "raleway-light", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: lighter;
-	text-transform: uppercase;
 	margin: 0;
 }
 
@@ -485,9 +484,9 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 
 .quote .author{
 	display: block;
-	color: #4c4b4b;
+	color: #fff;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	letter-spacing: .5px;
 	margin: 20px 0 0 0;
 }
