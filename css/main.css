@@ -183,7 +183,7 @@
 	font-family: "lato-black", Helvetica, Arial, sans-serif;
 	font-size: 60px;
 	color: #fff;
-	text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
 	line-height: 70px;
 }
 
@@ -192,6 +192,7 @@
 	font-weight: lighter;
 	font-size: 60px;
 	color: #fff;
+  text-shadow: 2px 2px 8px #000000;
 	text-transform: uppercase;
 	line-height: 70px;
 	margin-bottom: 50px;
