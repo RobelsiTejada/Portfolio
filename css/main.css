@@ -460,7 +460,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 
 .quote blockquote p{
 	color: #fff;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 8px #000000;
 	font-family: "raleway-light", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: lighter;
@@ -486,6 +486,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 .quote .author{
 	display: block;
 	color: #fff;
+  text-shadow: 2px 2px 8px #000000;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	letter-spacing: .5px;
